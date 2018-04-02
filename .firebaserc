@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "portfolio-dh",
+    "staging": "donovan-hong"
+  }
+}
